@@ -12,3 +12,4 @@ C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\FiltrarDatosConsola\obj
 C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\FiltrarDatosConsola\obj\Debug\net10.0\FiltrarDatosConsola.pdb
 C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\FiltrarDatosConsola\obj\Debug\net10.0\FiltrarDatosConsola.genruntimeconfig.cache
 C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\FiltrarDatosConsola\obj\Debug\net10.0\ref\FiltrarDatosConsola.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\FiltrarDatosConsola\obj\Debug\net10.0\FiltrarDatosConsola.sourcelink.json
