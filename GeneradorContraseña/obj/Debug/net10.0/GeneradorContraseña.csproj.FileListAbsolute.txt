@@ -1,0 +1,15 @@
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\bin\Debug\net10.0\GeneradorContraseña.exe
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\bin\Debug\net10.0\GeneradorContraseña.deps.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\bin\Debug\net10.0\GeneradorContraseña.runtimeconfig.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\bin\Debug\net10.0\GeneradorContraseña.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\bin\Debug\net10.0\GeneradorContraseña.pdb
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\GeneradorContraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\GeneradorContraseña.AssemblyInfoInputs.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\GeneradorContraseña.AssemblyInfo.cs
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\GeneradorContraseña.csproj.CoreCompileInputs.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\GeneradorContraseña.sourcelink.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\GeneradorContraseña.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\refint\GeneradorContraseña.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\GeneradorContraseña.pdb
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\GeneradorContraseña.genruntimeconfig.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\GeneradorContraseña\obj\Debug\net10.0\ref\GeneradorContraseña.dll
