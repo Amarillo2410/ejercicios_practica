@@ -70,6 +70,7 @@ class EjercicioDos
                     }
                     foreach (int numero in numerosRepetidos)
                     {
+                        Array.Sort(Numeros.ToArray());
                         Console.WriteLine(numero);
                     }
                     break;
