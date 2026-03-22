@@ -7,13 +7,14 @@ class EjercicioDos
     {
         List<int> Numeros = new List<int>();
         int opciones = 0;
-        while (opciones != 4)
+        while (opciones != 5)
         {
             Console.WriteLine("--MENU--");
             Console.WriteLine("1. Agregar numero a la lista");
             Console.WriteLine("2. Mostrar numeros en la lista");
             Console.WriteLine("3. eliiminar numeros de la lista");
-            Console.WriteLine("4. Salir");
+            Console.WriteLine("4. Numeros en la lista repetidos");
+            Console.WriteLine("5. Salir");
 
 
             Console.WriteLine("ingrese valosres a la lista");
@@ -57,6 +58,22 @@ class EjercicioDos
                     }
                     break;
                 case 4:
+                    Console.WriteLine("Numeros repetidos en la lista: ");
+                    HashSet<int> numerosUnicos = new HashSet<int>();
+                    HashSet<int> numerosRepetidos = new HashSet<int>();
+                    foreach (int numero in Numeros)
+                    {
+                        if (!numerosUnicos.Add(numero))
+                        {
+                            numerosRepetidos.Add(numero);
+                        }
+                    }
+                    foreach (int numero in numerosRepetidos)
+                    {
+                        Console.WriteLine(numero);
+                    }
+                    break;
+                case 5:
                     Console.WriteLine("Saliendo del programa...");
                     return;
             default:
