@@ -1,0 +1,15 @@
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\bin\Debug\net10.0\permu.exe
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\bin\Debug\net10.0\permu.deps.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\bin\Debug\net10.0\permu.runtimeconfig.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\bin\Debug\net10.0\permu.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\bin\Debug\net10.0\permu.pdb
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\permu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\permu.AssemblyInfoInputs.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\permu.AssemblyInfo.cs
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\permu.csproj.CoreCompileInputs.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\permu.sourcelink.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\permu.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\refint\permu.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\permu.pdb
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\permu.genruntimeconfig.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\permu\obj\Debug\net10.0\ref\permu.dll
