@@ -1,0 +1,15 @@
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\bin\Debug\net10.0\SubconjuntoSuma.exe
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\bin\Debug\net10.0\SubconjuntoSuma.deps.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\bin\Debug\net10.0\SubconjuntoSuma.runtimeconfig.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\bin\Debug\net10.0\SubconjuntoSuma.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\bin\Debug\net10.0\SubconjuntoSuma.pdb
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\SubconjuntoSuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\SubconjuntoSuma.AssemblyInfoInputs.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\SubconjuntoSuma.AssemblyInfo.cs
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\SubconjuntoSuma.csproj.CoreCompileInputs.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\SubconjuntoSuma.sourcelink.json
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\SubconjuntoSuma.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\refint\SubconjuntoSuma.dll
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\SubconjuntoSuma.pdb
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\SubconjuntoSuma.genruntimeconfig.cache
+C:\Users\amari\OneDrive\Documents\C#\Ejercicios_Practica\SubconjuntoSuma\obj\Debug\net10.0\ref\SubconjuntoSuma.dll
