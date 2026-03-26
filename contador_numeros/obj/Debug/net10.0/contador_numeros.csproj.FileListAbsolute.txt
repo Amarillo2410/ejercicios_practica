@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\bin\Debug\net10.0\contador_numeros.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\bin\Debug\net10.0\contador_numeros.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\bin\Debug\net10.0\contador_numeros.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\bin\Debug\net10.0\contador_numeros.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\bin\Debug\net10.0\contador_numeros.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\contador_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\contador_numeros.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\contador_numeros.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\contador_numeros.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\contador_numeros.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\contador_numeros.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\refint\contador_numeros.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\contador_numeros.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\contador_numeros.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contador_numeros\obj\Debug\net10.0\ref\contador_numeros.dll

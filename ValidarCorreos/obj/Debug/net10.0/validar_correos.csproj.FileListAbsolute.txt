@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\bin\Debug\net10.0\validar_correos.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\bin\Debug\net10.0\validar_correos.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\bin\Debug\net10.0\validar_correos.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\bin\Debug\net10.0\validar_correos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\bin\Debug\net10.0\validar_correos.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\validar_correos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\validar_correos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\validar_correos.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\validar_correos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\validar_correos.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\validar_correos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\refint\validar_correos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\validar_correos.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\validar_correos.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\validar_correos\obj\Debug\net10.0\ref\validar_correos.dll

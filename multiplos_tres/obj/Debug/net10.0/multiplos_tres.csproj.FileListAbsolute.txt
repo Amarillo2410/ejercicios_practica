@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\bin\Debug\net10.0\multiplos_tres.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\bin\Debug\net10.0\multiplos_tres.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\bin\Debug\net10.0\multiplos_tres.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\bin\Debug\net10.0\multiplos_tres.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\bin\Debug\net10.0\multiplos_tres.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\multiplos_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\multiplos_tres.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\multiplos_tres.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\multiplos_tres.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\multiplos_tres.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\multiplos_tres.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\refint\multiplos_tres.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\multiplos_tres.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\multiplos_tres.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\multiplos_tres\obj\Debug\net10.0\ref\multiplos_tres.dll

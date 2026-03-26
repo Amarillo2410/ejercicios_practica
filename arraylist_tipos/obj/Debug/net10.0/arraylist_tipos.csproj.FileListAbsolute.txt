@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\bin\Debug\net10.0\arraylist_tipos.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\bin\Debug\net10.0\arraylist_tipos.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\bin\Debug\net10.0\arraylist_tipos.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\bin\Debug\net10.0\arraylist_tipos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\bin\Debug\net10.0\arraylist_tipos.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\arraylist_tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\arraylist_tipos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\arraylist_tipos.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\arraylist_tipos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\arraylist_tipos.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\arraylist_tipos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\refint\arraylist_tipos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\arraylist_tipos.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\arraylist_tipos.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\arraylist_tipos\obj\Debug\net10.0\ref\arraylist_tipos.dll

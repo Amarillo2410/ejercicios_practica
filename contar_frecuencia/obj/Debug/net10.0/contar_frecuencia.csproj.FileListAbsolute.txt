@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\bin\Debug\net10.0\contar_frecuencia.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\bin\Debug\net10.0\contar_frecuencia.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\bin\Debug\net10.0\contar_frecuencia.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\bin\Debug\net10.0\contar_frecuencia.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\bin\Debug\net10.0\contar_frecuencia.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\contar_frecuencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\contar_frecuencia.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\contar_frecuencia.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\contar_frecuencia.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\contar_frecuencia.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\contar_frecuencia.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\refint\contar_frecuencia.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\contar_frecuencia.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\contar_frecuencia.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\contar_frecuencia\obj\Debug\net10.0\ref\contar_frecuencia.dll

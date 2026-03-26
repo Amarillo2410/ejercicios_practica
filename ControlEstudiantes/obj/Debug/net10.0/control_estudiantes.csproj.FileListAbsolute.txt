@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\bin\Debug\net10.0\control_estudiantes.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\bin\Debug\net10.0\control_estudiantes.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\bin\Debug\net10.0\control_estudiantes.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\bin\Debug\net10.0\control_estudiantes.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\bin\Debug\net10.0\control_estudiantes.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\control_estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\control_estudiantes.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\control_estudiantes.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\control_estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\control_estudiantes.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\control_estudiantes.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\refint\control_estudiantes.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\control_estudiantes.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\control_estudiantes.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_estudiantes\obj\Debug\net10.0\ref\control_estudiantes.dll

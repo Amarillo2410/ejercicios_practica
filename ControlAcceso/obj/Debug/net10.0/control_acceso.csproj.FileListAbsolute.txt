@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\bin\Debug\net10.0\control_acceso.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\bin\Debug\net10.0\control_acceso.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\bin\Debug\net10.0\control_acceso.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\bin\Debug\net10.0\control_acceso.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\bin\Debug\net10.0\control_acceso.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\control_acceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\control_acceso.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\control_acceso.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\control_acceso.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\control_acceso.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\control_acceso.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\refint\control_acceso.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\control_acceso.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\control_acceso.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\control_acceso\obj\Debug\net10.0\ref\control_acceso.dll

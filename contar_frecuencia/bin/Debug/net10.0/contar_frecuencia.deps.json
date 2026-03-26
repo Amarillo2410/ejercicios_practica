@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "contar_frecuencia/1.0.0": {
+        "runtime": {
+          "contar_frecuencia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "contar_frecuencia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

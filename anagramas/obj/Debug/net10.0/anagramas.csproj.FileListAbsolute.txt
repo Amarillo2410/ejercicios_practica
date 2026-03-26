@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\bin\Debug\net10.0\anagramas.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\bin\Debug\net10.0\anagramas.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\bin\Debug\net10.0\anagramas.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\bin\Debug\net10.0\anagramas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\bin\Debug\net10.0\anagramas.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\anagramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\anagramas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\anagramas.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\anagramas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\anagramas.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\anagramas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\refint\anagramas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\anagramas.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\anagramas.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\anagramas\obj\Debug\net10.0\ref\anagramas.dll

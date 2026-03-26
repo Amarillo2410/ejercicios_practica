@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\bin\Debug\net10.0\numeros_pares.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\bin\Debug\net10.0\numeros_pares.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\bin\Debug\net10.0\numeros_pares.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\bin\Debug\net10.0\numeros_pares.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\bin\Debug\net10.0\numeros_pares.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\numeros_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\numeros_pares.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\numeros_pares.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\numeros_pares.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\numeros_pares.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\numeros_pares.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\refint\numeros_pares.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\numeros_pares.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\numeros_pares.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\numeros_pares\obj\Debug\net10.0\ref\numeros_pares.dll

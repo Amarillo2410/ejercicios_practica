@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\bin\Debug\net10.0\gestion_edades.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\bin\Debug\net10.0\gestion_edades.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\bin\Debug\net10.0\gestion_edades.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\bin\Debug\net10.0\gestion_edades.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\bin\Debug\net10.0\gestion_edades.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\gestion_edades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\gestion_edades.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\gestion_edades.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\gestion_edades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\gestion_edades.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\gestion_edades.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\refint\gestion_edades.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\gestion_edades.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\gestion_edades.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\gestion_edades\obj\Debug\net10.0\ref\gestion_edades.dll

@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\bin\Debug\net10.0\buscar_nombres.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\bin\Debug\net10.0\buscar_nombres.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\bin\Debug\net10.0\buscar_nombres.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\bin\Debug\net10.0\buscar_nombres.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\bin\Debug\net10.0\buscar_nombres.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\buscar_nombres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\buscar_nombres.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\buscar_nombres.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\buscar_nombres.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\buscar_nombres.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\buscar_nombres.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\refint\buscar_nombres.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\buscar_nombres.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\buscar_nombres.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\buscar_nombres\obj\Debug\net10.0\ref\buscar_nombres.dll

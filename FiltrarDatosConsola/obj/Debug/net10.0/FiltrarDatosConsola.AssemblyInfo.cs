@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiltrarDatosConsola")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3366c39cea591378bba245f27d3e490c21c04a94")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3f5c429ba526bc5dfe719c5d34c26e91f2b5714")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiltrarDatosConsola")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiltrarDatosConsola")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

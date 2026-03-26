@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\bin\Debug\net10.0\registro_notas.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\bin\Debug\net10.0\registro_notas.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\bin\Debug\net10.0\registro_notas.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\bin\Debug\net10.0\registro_notas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\bin\Debug\net10.0\registro_notas.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\registro_notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\registro_notas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\registro_notas.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\registro_notas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\registro_notas.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\registro_notas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\refint\registro_notas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\registro_notas.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\registro_notas.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\registro_notas\obj\Debug\net10.0\ref\registro_notas.dll

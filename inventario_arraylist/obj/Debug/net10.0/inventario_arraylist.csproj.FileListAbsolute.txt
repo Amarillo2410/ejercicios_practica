@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\bin\Debug\net10.0\inventario_arraylist.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\bin\Debug\net10.0\inventario_arraylist.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\bin\Debug\net10.0\inventario_arraylist.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\bin\Debug\net10.0\inventario_arraylist.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\bin\Debug\net10.0\inventario_arraylist.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\inventario_arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\inventario_arraylist.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\inventario_arraylist.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\inventario_arraylist.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\inventario_arraylist.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\inventario_arraylist.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\refint\inventario_arraylist.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\inventario_arraylist.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\inventario_arraylist.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\inventario_arraylist\obj\Debug\net10.0\ref\inventario_arraylist.dll

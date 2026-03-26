@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\bin\Debug\net10.0\verificar_signos.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\bin\Debug\net10.0\verificar_signos.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\bin\Debug\net10.0\verificar_signos.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\bin\Debug\net10.0\verificar_signos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\bin\Debug\net10.0\verificar_signos.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\verificar_signos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\verificar_signos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\verificar_signos.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\verificar_signos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\verificar_signos.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\verificar_signos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\refint\verificar_signos.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\verificar_signos.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\verificar_signos.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\verificar_signos\obj\Debug\net10.0\ref\verificar_signos.dll

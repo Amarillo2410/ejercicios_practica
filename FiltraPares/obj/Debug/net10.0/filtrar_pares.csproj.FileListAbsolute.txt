@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\bin\Debug\net10.0\filtrar_pares.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\bin\Debug\net10.0\filtrar_pares.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\bin\Debug\net10.0\filtrar_pares.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\bin\Debug\net10.0\filtrar_pares.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\bin\Debug\net10.0\filtrar_pares.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\filtrar_pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\filtrar_pares.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\filtrar_pares.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\filtrar_pares.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\filtrar_pares.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\filtrar_pares.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\refint\filtrar_pares.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\filtrar_pares.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\filtrar_pares.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\filtrar_pares\obj\Debug\net10.0\ref\filtrar_pares.dll

@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\bin\Debug\net10.0\optimizacion_rutas.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\bin\Debug\net10.0\optimizacion_rutas.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\bin\Debug\net10.0\optimizacion_rutas.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\bin\Debug\net10.0\optimizacion_rutas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\bin\Debug\net10.0\optimizacion_rutas.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\optimizacion_rutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\optimizacion_rutas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\optimizacion_rutas.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\optimizacion_rutas.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\optimizacion_rutas.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\optimizacion_rutas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\refint\optimizacion_rutas.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\optimizacion_rutas.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\optimizacion_rutas.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\optimizacion_rutas\obj\Debug\net10.0\ref\optimizacion_rutas.dll

@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\bin\Debug\net10.0\tabla_multiplicar.exe
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\bin\Debug\net10.0\tabla_multiplicar.deps.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\bin\Debug\net10.0\tabla_multiplicar.runtimeconfig.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\bin\Debug\net10.0\tabla_multiplicar.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\bin\Debug\net10.0\tabla_multiplicar.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\tabla_multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\tabla_multiplicar.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\tabla_multiplicar.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\tabla_multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\tabla_multiplicar.sourcelink.json
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\tabla_multiplicar.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\refint\tabla_multiplicar.dll
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\tabla_multiplicar.pdb
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\tabla_multiplicar.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Campus\C#\ejercicios\tabla_multiplicar\obj\Debug\net10.0\ref\tabla_multiplicar.dll
